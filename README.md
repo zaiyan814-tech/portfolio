@@ -1,35 +1,66 @@
-# portfolio
-hey everyone hope you guys are doing well, this is my profile
-# 👋 Hi, I'm Zaiyan Ahmed
+# Hi, I'm Zaiyan Ahmed 👋  
 
-🚀 **Full-Stack Developer | .NET | Web | Mobile | Cloud | 5+ Years Experience**
+🚀 Full-stack Developer | Backend & Frontend Specialist | Mobile App Developer | Cloud & AI Enthusiast  
 
-I help businesses build **scalable, secure, and high-performance applications** for the web and mobile.  
-Currently working on projects for clients in the **UK & US**, focusing on **.NET, Angular, SQL, and mobile apps**.
+I have 7+ years of experience building **scalable web applications, modern mobile apps, and cloud-based solutions**.  
+Passionate about creating impactful digital products that improve user experience and business growth.  
 
 ---
 
-## 🔧 Skills & Technologies
-- **Frontend:** React, Angular, HTML, CSS, JavaScript, TypeScript  
-- **Backend:** .NET 8, C#, Node.js  
-- **Databases:** SQL Server, MongoDB, Firebase  
-- **Cloud & DevOps:** Azure, AWS, Docker, CI/CD  
-- **Mobile:** React Native, Swift, Kotlin  
+## 🔥 About Me  
+- 💻 Skilled in **Frontend (React, Angular, Next.js, Tailwind)**  
+- ⚙️ Strong **Backend (Node.js, Django, FastAPI, Laravel, Python)**  
+- 📱 Mobile Apps with **React Native, Swift & Kotlin**  
+- ☁️ Cloud deployments on **AWS, Azure, GCP**  
+- 🤖 Exploring **Agentic AI (LangChain, OpenAI, Anthropic, Mistral, Ollama, etc.)**  
+- 🌱 Always learning and experimenting with cutting-edge tech  
 
 ---
 
-## 📂 Featured Projects
-- **E-Commerce Web App** – Built with .NET Core + Angular, handling **50k+ monthly users**  
-- **Healthcare Mobile App** – HIPAA-compliant cross-platform app for US-based clinic  
-- **Retail ERP System** – Migrated legacy system to modern .NET architecture, improving performance by **45%**  
+## 🚀 Featured Projects  
+
+### 📌 [Sortd – Shopping Wishlist App](https://apps.apple.com/au/app/sortd-shopping-wishlist-app/id1591312803)  
+A modern shopping & wishlist app with smooth UI/UX.  
+🔗 [Live on App Store](https://apps.apple.com/au/app/sortd-shopping-wishlist-app/id1591312803)  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)  
-- GitHub: [Your GitHub](https://github.com/zaiyan814-tech)  
-- Portfolio Website: [Your Website Link]  
+### 📌 [Indelible Impressions](https://apps.apple.com/ee/app/indelible-impressions/id6463918288)  
+A mobile app designed for creative digital impressions.  
+🔗 [Check on App Store](https://apps.apple.com/ee/app/indelible-impressions/id6463918288)  
 
 ---
 
-⭐️ Feel free to check out my projects and reach out if you'd like to collaborate!
+### 📌 [Laundry Hub – Mobile App](https://apps.apple.com/ee/app/laundry-hub/id1441622456)  
+On-demand laundry service application with booking system & payments.  
+🔗 [App Store Link](https://apps.apple.com/ee/app/laundry-hub/id1441622456)  
+
+---
+
+### 📌 [Laundry Hub – Website](https://thelaundryhub.ae/en)  
+Full-stack developed laundry service platform.  
+🔗 [Visit Website](https://thelaundryhub.ae/en)  
+
+---
+
+## 🛠️ Skills  
+
+**Frontend:** React, Angular, Next.js, Tailwind, HTML5, CSS3, SCSS  
+**Backend:** Node.js, Django, Laravel, Python, FastAPI, Flask  
+**Mobile Apps:** React Native, Swift, Kotlin  
+**Cloud:** AWS, Azure, Google Cloud  
+**AI/Agentic AI:** LangChain, OpenAI, Anthropic, Mistral, Ollama, Janmi, LangGraph  
+
+---
+
+## 📬 Connect with Me  
+
+- 🌐 Portfolio Website: _Coming Soon_  
+- 💼 LinkedIn: [Your LinkedIn Here]  
+- 🐦 Twitter: [Your Twitter Here]  
+- 📧 Email: yourname@email.com  
+
+---
+
+⭐️ From [Zaiyan Ahmed](https://github.com/yourusername)
+
