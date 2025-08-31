@@ -55,12 +55,11 @@ Full-stack developed laundry service platform.
 
 ## 📬 Connect with Me  
 
-- 🌐 Portfolio Website: _Coming Soon_  
-- 💼 LinkedIn: [Your LinkedIn Here]  
-- 🐦 Twitter: [Your Twitter Here]  
-- 📧 Email: yourname@email.com  
-
+- 🌐 Portfolio Website: _Coming soon_    
+- 🐦 threads: [@M.zaiyan_ahmed]  
+- 📧 Email: [zaiyan84@gmail.com]  
+- 📸 Instagram:[M,ZAIYAN_AHMED][https://www.instagram.com/m.zaiyan_ahmed/?igsh=MTk5ZG0weG85amp4aQ%3D%3D#]
 ---
 
-⭐️ From [Zaiyan Ahmed](https://github.com/yourusername)
+⭐️ From [Zaiyan Ahmed](https://github.com/m-zaiyan-ahmed)
 
